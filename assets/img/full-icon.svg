@@ -1,0 +1,62 @@
+<svg id="screen_latest" data-name="screen latest" xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f4f4f4;
+      }
+
+      .cls-2 {
+        fill: #d2d2d2;
+      }
+
+      .cls-3 {
+        fill: #b1b1b1;
+      }
+
+      .cls-4 {
+        fill: #2b2b2b;
+      }
+
+      .cls-4, .cls-6 {
+        fill-rule: evenodd;
+      }
+
+      .cls-5 {
+        fill: #505050;
+      }
+
+      .cls-6, .cls-8 {
+        fill: #3b3b3b;
+      }
+
+      .cls-7 {
+        fill: #d0d0d0;
+      }
+
+      .cls-9 {
+        fill: #6d6d6d;
+      }
+
+      .cls-10 {
+        fill: #00c0ff;
+      }
+
+      .cls-11 {
+        fill: red;
+      }
+    </style>
+  </defs>
+  <rect id="base" class="cls-1" x="339" y="966" width="346" height="11"/>
+  <rect id="stand" class="cls-2" x="399" y="848" width="228" height="118"/>
+  <rect id="white" class="cls-1" x="9" y="232" width="1008" height="616" rx="20" ry="20"/>
+  <circle id="dot" class="cls-3" cx="511" cy="785" r="29"/>
+  <path id="black" class="cls-4" d="M9,730V196a20,20,0,0,1,20-20H997a20,20,0,0,1,20,20V730H9Z"/>
+  <circle class="cls-5" cx="511" cy="512" r="420"/>
+  <path id="Curve1_1" data-name="Curve1 1" class="cls-6" d="M469.984,929.539A420.263,420.263,0,0,1,91,546.453ZM91,546.453L283.773,354.5,664.4,734.305,469.984,929.539"/>
+  <circle class="cls-7" cx="509.359" cy="510.359" r="272.328"/>
+  <circle class="cls-8" cx="509.359" cy="510.359" r="207.547"/>
+  <circle class="cls-9" cx="509.343" cy="510.343" r="169.812"/>
+  <circle cx="507.703" cy="510.343" r="64.797"/>
+  <circle class="cls-10" cx="490.485" cy="492.313" r="22.985"/>
+  <ellipse class="cls-11" cx="760.375" cy="266.719" rx="42.656" ry="42.656"/>
+</svg>
